@@ -1,4 +1,7 @@
-![Build OpenWrt](https://github.com/amaumene/xiaomi_redmi-router-ac2100_openwrt_mesh/workflows/Build%20OpenWrt/badge.svg)
+![Build OpenWrt](https://github.com/KastB/xiaomi_redmi-router-ac2100_openwrt_mesh/workflows/Build%20OpenWrt/badge.svg)
+# Fork with additionall packages
+currently: htop iperf and nano
+
 # Latest OpenWrt image for [Xiaomi Redmi AC2100](https://xiaomi-mi.com/wifi-routers/redmi-ac2100-router/) with Mesh
 This github actions is to build a fresh image of latest OpenWrt snapshot so I can automatically update my routers at home. 
 
