@@ -1,4 +1,3 @@
-![Build OpenWrt](https://github.com/KastB/xiaomi_redmi-router-ac2100_openwrt_mesh/workflows/Build%20OpenWrt/badge.svg)
 # Fork with additionall packages
 currently: htop iperf and nano
 
